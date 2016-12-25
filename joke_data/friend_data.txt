@@ -1,0 +1,19 @@
+Supriya:
+43, 63, 78, 55, 8 | Joke #
+ 3,  7,  0,  5, 3 | Rating
+
+Dipsikha:
+89, 99, 66, 40, 55 | Joke #
+-2, -5, -8,  3,  6 | Rating
+
+Sahil:
+67, 54,  33,   4, 39 | Joke #
+ 2,  0, -10, -10,  5 | Rating
+
+Ed:
+86, 32, 1, 42, 56 | Joke #
+ 3,  6, 8, -3,  4 | Rating
+
+Neha:
+40, 35, 48, 8, 34 | Joke #
+ 7, -2,  6, 9,  3 | Rating
